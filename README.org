@@ -4,6 +4,7 @@ A natural language understanding system for English
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/ddmcdonald/sparser.git |
-| commit  | 7896800                                              |
+| commit  | 78968007e                                     |
 | systems | sparser                                       |
 |---------+-----------------------------------------------|
+-----|
